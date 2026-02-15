@@ -1,0 +1,17 @@
+# Qt Creator / Qt
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qrc~ 
+*.moc
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+*.a
+build-*/
+
+# Backup / temp files
+*~
+*.swp

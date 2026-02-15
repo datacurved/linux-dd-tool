@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-23e860b563f6ce9fdbfa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dd-tool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dd-tool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dd-tool-Release-8b90e4977b3481884935.json",
+					"name" : "dd-tool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dd-tool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dd-tool_autogen-Release-1fc8c9564c07f343c2f8.json",
+					"name" : "dd-tool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dd-tool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dd-tool_autogen_timestamp_deps-Release-1dc39dd523d4b6826c73.json",
+					"name" : "dd-tool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/labone/dd-tool/build/Desktop_Qt_6_10_2-Release",
+		"source" : "/home/labone/dd-tool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
