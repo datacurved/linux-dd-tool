@@ -11,7 +11,7 @@
 *.so
 *.a
 build-*/
-
+build/
 # Backup / temp files
 *~
 *.swp
