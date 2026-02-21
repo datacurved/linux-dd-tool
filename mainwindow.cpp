@@ -10,6 +10,14 @@
 #include <QDir>
 #include <QTimer>
 
+#include <QApplication>
+#include <QSplashScreen>
+#include <QPixmap>
+
+
+
+
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent),
     ui(new Ui::MainWindow)
